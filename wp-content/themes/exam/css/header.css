@@ -1,0 +1,35 @@
+header .view_pc .width_100 .contianer .width_45 .menu li {
+  display: inline;
+  list-style-type: none;
+}
+
+header .view_pc .width_100 .contianer .width_45 .menu li a {
+  color: #0c0c0e;
+}
+
+header .view_pc .width_100 .contianer .width_30 .width_100 .width_48 .call {
+  background: #003878;
+  display: block;
+}
+
+header .view_pc .width_100 .contianer .width_30 .width_100 .width_48 .contact {
+  background: #f47820;
+  display: block;
+}
+
+header .view_tabsp {
+  position: fixed;
+  box-shadow: 4px 2px 14px -1px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 4px 2px 14px -1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 4px 2px 14px -1px rgba(0, 0, 0, 0.75);
+}
+
+header .view_tabsp .width_100 .contianer .width_60 .width_100 .width_48 .call {
+  background: #003878;
+  display: block;
+}
+
+header .view_tabsp .width_100 .contianer .width_60 .width_100 .width_48 .contact {
+  background: #f47820;
+  display: block;
+}
